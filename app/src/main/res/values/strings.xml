@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Movies Library</string>
+    <string name="help_text">Add movie to your library by choosing it either from internet
+     database or manually by pressing on "add" button in a center bottom side.
+      \n \n
+
+        Edit movie data by clicking on it
+
+        \n \n
+    Delete movie from your library by long clicking on it
+    \n \n
+    Enjoy!</string>
+</resources>
